@@ -1,6 +1,6 @@
 <div align="center">
 
-#  🔥⎾ _**JS - NEEEXT 4**_ ⏋🔥
+#  🔥⎾ _**JS - NEXT 4**_ ⏋🔥
 #   _**Algorithms and Node JS**_ 
 
 </div>
